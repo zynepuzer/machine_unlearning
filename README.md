@@ -4,8 +4,10 @@ This project implements a shallow self-destruction (SSD) method on MNIST using K
 
 - 🧠 Target: Forgetting class `2` while retaining accuracy on others.
 - 📊 Dataset: MNIST
+- Final Report: unlearning.pdf
 - 📎 Notebook: `unlearning_final.ipynb`
-- 🎥 Presentation Video: [Watch here](https://youtu.be/abcxyz12345)
+- Presentation: Machine Unlearning
+- 🎥 Presentation Video: [((https://drive.google.com/file/d/11QhwoTZ-wK-gpPKJjX40SPnFoKCz-4tM/view?usp=sharing))]
 
 ## Authors
 - Zeynep Uzer – Implementation, Analysis, Reporting
